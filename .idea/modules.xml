@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServiceRegistrationServer/ServiceRegistrationServer.iml" filepath="$PROJECT_DIR$/ServiceRegistrationServer/ServiceRegistrationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StuffServer/StuffServer.iml" filepath="$PROJECT_DIR$/StuffServer/StuffServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThingServer/ThingServer.iml" filepath="$PROJECT_DIR$/ThingServer/ThingServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joee-mservice.iml" filepath="$PROJECT_DIR$/joee-mservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceRegistrationServer/mservices (1).iml" filepath="$PROJECT_DIR$/ServiceRegistrationServer/mservices (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/StuffServer/mservices (2).iml" filepath="$PROJECT_DIR$/StuffServer/mservices (2).iml" />
+    </modules>
+  </component>
+</project>
